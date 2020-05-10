@@ -37,7 +37,7 @@ public interface RulesOfGame {
         }
     }
 
-    // TODO: Prosze dokonczyc implementacje kolejnych figur szachowych: Knight, King, Queen, Rock, Pawn
+    // TODO: Prosze dokonczyc implementacje kolejnych figur szachowych: Knight, King, Queen, Rook, Pawn
     // TODO: Prosze stosowac zaproponowane nazwy klas !!! (Prowadzacy zajecia posiada wlasne testy)
     // TODO: Kazda klasa powinna implementowac interfejs RulesOfGame
 }
